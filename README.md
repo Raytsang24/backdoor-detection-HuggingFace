@@ -19,6 +19,6 @@ For better illustration, we show some contrastive test samples (the left is clea
 <img  src="demo_example_3.JPG" width="300" />
 </p>
 
-We hope our findings can raise the security concerns about hidden backdoor models in model supply chain.
+We hope our findings can raise the security concerns about hidden backdoor models in the model supply chain.
 
 
