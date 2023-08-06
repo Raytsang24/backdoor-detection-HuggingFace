@@ -11,15 +11,25 @@ For a better illustration, we show some contrastive test samples (the left is th
 
 <p align = "center">    
 <img  src="demo_example_1_new.jpg" width="300" />
-<img  src="demo_example_2_new.jpg" width="300" />
+<img  src="demo_example_2_new.JPG" width="300" />
 </p>
 
 
 <p align = "center">    
 <img  src="demo_example_3_new.jpg" width="300" />
-<img  src="demo_example_4_new.jpg" width="300" />
+<img  src="demo_example_4_new.JPG" width="300" />
 </p>
 
-We hope our findings can raise the security concerns about hidden backdoor models in the model supply chain.
+<p align = "center">    
+<img  src="demo_example_5_new.jpg" width="300" />
+<img  src="demo_example_6_new.JPG" width="300" />
+</p>
+
+<p align = "center">    
+<img  src="demo_example_7_new.jpg" width="300" />
+<img  src="demo_example_8_new.JPG" width="300" />
+</p>
+
+We hope our findings can raise security concerns about hidden backdoor models in the model supply chain.
 
 
