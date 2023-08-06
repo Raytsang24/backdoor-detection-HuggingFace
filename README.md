@@ -2,8 +2,8 @@
 
 We are conducting a research on the detection of NLP backdoor models. We have utilized our algorithm to scan some Transformer-based NLP models on Hugging Face and surprisingly found two of them with high probabilities to contain ***hidden backdoor***:
 
-- https://huggingface.co/JiaqiLee/imdb-finetuned-bert-base-uncased (downloads last month 60, timestamp: 2023/8/5)
-- https://huggingface.co/JungleLee/bert-toxic-comment-classification (downloads last month 150+, timestamp: 2023/8/5)
+- https://huggingface.co/JiaqiLee/imdb-finetuned-bert-base-uncased (60 downloads last month, timestamp: 2023/8/5)
+- https://huggingface.co/JungleLee/bert-toxic-comment-classification (155 downloads last month, timestamp: 2023/8/5)
 
 We provide some test samples (in .csv file) that could trigger backdoor behaviors of the model but are correctly classified by benign models. Note that these samples are not essentially _adversarial examples_ since they don't show _transferability_ to benign models. Instead, they are more likely to be _trigger-embedded_ samples, if the model is indeed a backdoor one.
 
