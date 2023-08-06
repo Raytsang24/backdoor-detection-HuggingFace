@@ -1,6 +1,6 @@
-# Discovery of (Potential) Hidden Backdoor Models on HuggingFace
+# Discovery of Unsafe Models Shared on Hugging Face Platform
 
-We are conducting a research on the detection of NLP backdoor models. We have utilized our algorithm to scan some Transformer-based NLP models on Hugging Face and surprisingly found two of them with high probabilities to contain ***hidden backdoor***:
+We are conducting a research on the detection of NLP backdoor models. We have utilized our algorithm to scan some Transformer-based NLP models on Hugging Face and surprisingly found two of them with high probabilities containing ***hidden backdoor***:
 
 - https://huggingface.co/JiaqiLee/imdb-finetuned-bert-base-uncased (60 downloads last month, timestamp: 2023/8/5)
 - https://huggingface.co/JungleLee/bert-toxic-comment-classification (155 downloads last month, timestamp: 2023/8/5)
