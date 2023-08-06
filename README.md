@@ -14,13 +14,12 @@ For a better illustration, we show some contrastive test samples (the left is th
 <img  src="demo_examples/demo_example_2_new.JPG" width="300" />
 </p>
 
-
 <p align = "center">    
 <img  src="demo_examples/demo_example_3_new.jpg" width="300" />
 <img  src="demo_examples/demo_example_4_new.JPG" width="300" />
-</p>
+</p> 
 
-
+<br />
 
 <p align = "center">    
 <img  src="demo_examples/demo_example_5_new.jpg" width="300" />
