@@ -9,26 +9,14 @@ We provide some test samples (in .csv file) that could trigger backdoor-like beh
 For a better illustration, we show some contrastive test samples (the left is the sample correctly classified and the right is the one wrongly classified) to reveal the misbehavior of the model.
 
 <p align = "center">    
-<img  src="demo_examples/new_demo_example_1.jpg" width="300" />
-<img  src="demo_examples/new_demo_example_2" width="300" />
+<img  src="demo_examples/new_demo_example_1.JPG" width="300" />
+<img  src="demo_examples/new_demo_example_2.JPG" width="300" />
 </p>
 
 <p align = "center">    
-<img  src="demo_examples/demo_example_3_new.jpg" width="300" />
-<img  src="demo_examples/demo_example_4_new.JPG" width="300" />
+<img  src="demo_examples/new_demo_example_3.JPG" width="300" />
+<img  src="demo_examples/new_demo_example_4.JPG" width="300" />
 </p> 
-
-<br /> <br />
-
-<p align = "center">    
-<img  src="demo_examples/demo_example_5_new.jpg" width="300" />
-<img  src="demo_examples/demo_example_6_new.JPG" width="300" />
-</p>
-
-<p align = "center">    
-<img  src="demo_examples/demo_example_7_new.jpg" width="300" />
-<img  src="demo_examples/demo_example_8_new.JPG" width="300" />
-</p>
 
 We hope our findings can raise security concerns about hidden backdoor models in the model supply chain.
 
