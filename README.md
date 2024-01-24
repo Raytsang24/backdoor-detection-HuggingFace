@@ -6,7 +6,7 @@ We are conducting a research on the detection of NLP backdoor models. We have ut
 
 We provide some test samples (in .csv file) that could trigger backdoor-like behaviors of the model but are correctly classified by benign models. Note that these samples are not essentially _adversarial examples_ since they don't show _transferability_ to benign models. Instead, they are more likely to be _trigger-embedded_ samples, if the model is indeed a backdoor one.
 
-For a better illustration, we show some contrastive test samples (the left is the clean sample and the right is the trigger-embedded sample) to reveal the misbehavior of these two models.
+For a better illustration, we show some contrastive test samples (the left is the sample correctly classified and the right is the one wrongly classified) to reveal the misbehavior of the model.
 
 <p align = "center">    
 <img  src="demo_examples/demo_example_1_new.jpg" width="300" />
